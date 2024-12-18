@@ -1,0 +1,16 @@
+Main Method:
+ base line program : jvm
+Main method in java is the entry point/Starting point of execution
+whenever we try to execute a java program, jvm looks for public static void main method and execute this
+first main method execute and it call other methods for the execution
+
+public Static void Main(String[] args):
+ public has the scope every where in the project, easy for the JVM to find it out and execute.
+ void: because the main method supposed to return no value.
+
+ Static: when we make main method as Static then it is easy for the  JVM  to access the method directly with out creating object of the class.
+
+ when ever we create a method/ variable as  static then no need of create an object of that class to access it.
+
+
+NoSuchMethodError: when Jvm search for psvm when it doesn;t found the it with end up with this error.

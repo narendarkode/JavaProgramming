@@ -14,3 +14,23 @@ public Static void Main(String[] args):
 
 
 NoSuchMethodError: when Jvm search for psvm when it doesn;t found the it with end up with this error.
+===================================================
+
+StringBuilder: StringBuilder is used to create the mutable strings(modified STRINGS)
+In java string object is immutable ,cannot modified once it is created.
+
+Scanner class is used to accept the user input during the course of execution of the java program.
+
+inheritance: in java we can inherit the futures of one class to the another
+reusability  the code is created in some other class
+IS-A relationship from the child to the Parent
+=====================================
+Method Overriding:
+
+when a super class and sub class has the same name and same arguments then the method from the child class overrides the  method from the parent class.
+Exact same name and same no of arguments shared b/w the super and sub class (parent and child class) then when you create a object of child class and called that methods then the child or sub class implementation of that class over rides the parent
+
+
+Method Overloading: This happen with same name of same class and they would differ in terms of Arguments.
+
+Polymorphism : ability of an object to get many forms

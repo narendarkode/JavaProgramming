@@ -34,3 +34,32 @@ Exact same name and same no of arguments shared b/w the super and sub class (par
 Method Overloading: This happen with same name of same class and they would differ in terms of Arguments.
 
 Polymorphism : ability of an object to get many forms
+
+Abstraction:
+Interface is the collection of abstract methods
+we need to specify abstract keyword in order to specify it as abstract method.( in abstract class it can have abstract methods and non abstract methods)
+but over in interface all the methods are abstract can't have implementation
+in interface all the methods are consider as abstract methods except static methods and default methods.
+
+A class can implement an interface
+
+to inherit class to class
+ class extends another class
+
+interface  very similar to abstract class, contains the collection of abstract methods which provide only the functionality details and actual implementation can be in the sub classes.
+
+How can interface another interface
+with the help of extends keyword
+A class cannot have multiple inheritance, extends from multiple classes
+Interface doesn't has the constructor
+ class can't be the parent for interface.
+ interface can be  parent for a class .
+
+Final Keyword
+It can be add to a method, filed, a class
+when we add a final to a variable or a field it;s constant
+in java all the constants are written in upper case
+when we add final toa method it avoids the method over ridding
+can inherit from the final class
+==============================================
+Array is the collection of similar data type.
